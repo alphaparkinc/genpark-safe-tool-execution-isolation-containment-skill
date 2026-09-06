@@ -1,0 +1,16 @@
+{
+  "name": "genpark-safe-tool-execution-isolation-containment-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency filesystem path restriction, subprocess jail, and network domain allowlisting sentinel.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "containment",
+    "sandbox",
+    "path-restriction",
+    "domain-allowlist",
+    "security",
+    "genpark",
+    "mcp"
+  ]
+}
